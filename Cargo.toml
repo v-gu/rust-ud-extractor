@@ -1,0 +1,7 @@
+[package]
+name = "rust-ud-extract"
+version = "0.1.0"
+authors = ["Vincent Gu <g@v-io.co>"]
+
+[dependencies]
+regex = "0.1"
